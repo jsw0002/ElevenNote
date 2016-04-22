@@ -218,9 +218,14 @@
     <Content Include="Content\css\font-awesome.min.css" />
     <Content Include="Content\css\modern-business.css" />
     <Content Include="Content\fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\image\Angie.jpg" />
     <Content Include="Content\image\carouselimage2.jpeg" />
     <Content Include="Content\image\carouselimage3.jpg" />
     <Content Include="Content\image\carouselimage4.jpeg" />
+    <Content Include="Content\image\Joe.jpg" />
+    <Content Include="Content\image\Jordan.jpg" />
+    <Content Include="Content\image\Kenneth.jpg" />
+    <Content Include="Content\image\Kyle.jpg" />
     <Content Include="Content\image\tasktackler.jpg" />
     <Content Include="Content\image\tasktacklerabout.jpg" />
     <Content Include="favicon.ico" />
