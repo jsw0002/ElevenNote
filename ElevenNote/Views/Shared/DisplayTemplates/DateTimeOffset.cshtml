@@ -1,0 +1,9 @@
+﻿@model System.DateTimeOffset?
+
+<span>
+    <!-- Question mark and colon operator is shorthard for an if else
+        where both the true and false sides return the same type.
+        If Model.HasValue is true, then format the date in the General format
+        If there isn't a value, just write out a hyphen.  -->
+    @(Model.HasValue ? Model.Value.LocalDateTime.ToString("G") : "-")
+</span>
